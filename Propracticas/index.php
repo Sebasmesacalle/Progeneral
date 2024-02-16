@@ -32,7 +32,7 @@
         <div class="header-content container">
             <div class="header-txt">
                 <h1>Medical center</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                <p>Estaré modificando este archivo con el fin deorganizarlo. 
                    Adipisci illo ipsam recusandae possimus quisquam placeat quis, 
                    veritatis rem repellat et eos illum expedita beatae sunt fugiat!
                    Libero optio ipsam perferendis!
