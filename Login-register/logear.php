@@ -23,7 +23,7 @@
         <div class="contenedor__todo">
             <div class="caja__fondo">
                 <div class="caja__fondo-login">
-                    <h3>¿Do you already got an account?</h3>
+                    <h3>¿Ya tienes una cuenta?</h3>
                     <p>Inicia sección para entrar a la página</p>
                     <button id="btn__iniciar-seccion">Iniciar sección</button>
                 </div>
